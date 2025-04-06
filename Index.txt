@@ -1,60 +1,12 @@
 <!DOCTYPE html>
-<html lang="vi">
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Góc Mua Sắm Thông Minh</title>
-  <script src="https://cdn.tailwindcss.com"></script>
+  <title>Mimoza - Amazon Affiliate</title>
 </head>
-<body class="bg-gray-50 text-gray-800">
-  <!-- Header -->
-  <header class="bg-white shadow-md sticky top-0 z-10">
-    <div class="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
-      <h1 class="text-2xl font-bold text-blue-600">🛍 Góc Mua Sắm Thông Minh</h1>
-      <nav>
-        <a href="#products" class="text-sm text-gray-700 hover:text-blue-600">Sản phẩm</a>
-      </nav>
-    </div>
-  </header>
-
-  <!-- Hero Section -->
-  <section class="py-12 text-center bg-gradient-to-r from-blue-100 to-purple-100">
-    <h2 class="text-3xl md:text-4xl font-bold mb-4">Khám phá những sản phẩm tốt nhất từ Amazon</h2>
-    <p class="text-gray-600 max-w-xl mx-auto">Chúng tôi giúp bạn chọn lựa sản phẩm chất lượng, đáng mua nhất trên Amazon với giá tốt và đánh giá cao.</p>
-  </section>
-
-  <!-- Product Section -->
-  <section id="products" class="py-12 max-w-6xl mx-auto px-4">
-    <h3 class="text-2xl font-semibold mb-6">Sản phẩm nổi bật</h3>
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-      <!-- Product Card -->
-      <div class="bg-white shadow-md rounded-2xl overflow-hidden p-4 flex flex-col justify-between">
-        <img src="https://via.placeholder.com/300x200" alt="Sản phẩm 1" class="rounded-lg mb-4">
-        <h4 class="text-lg font-semibold">Tai nghe không dây XYZ</h4>
-        <p class="text-sm text-gray-600 mb-4">Âm thanh sống động, kết nối Bluetooth 5.2, thời lượng pin 30 giờ.</p>
-        <a href="https://www.amazon.com/dp/B000000" target="_blank" class="mt-auto inline-block bg-blue-600 text-white px-4 py-2 rounded-lg text-sm font-medium hover:bg-blue-700">Mua ngay trên Amazon</a>
-      </div>
-      
-      <!-- Repeat Product Card (add more if needed) -->
-      <div class="bg-white shadow-md rounded-2xl overflow-hidden p-4 flex flex-col justify-between">
-        <img src="https://via.placeholder.com/300x200" alt="Sản phẩm 2" class="rounded-lg mb-4">
-        <h4 class="text-lg font-semibold">Sách: Bí Quyết Thành Công</h4>
-        <p class="text-sm text-gray-600 mb-4">Cuốn sách truyền cảm hứng giúp bạn đạt được mục tiêu cá nhân và nghề nghiệp.</p>
-        <a href="https://www.amazon.com/dp/B000001" target="_blank" class="mt-auto inline-block bg-blue-600 text-white px-4 py-2 rounded-lg text-sm font-medium hover:bg-blue-700">Mua ngay trên Amazon</a>
-      </div>
-
-      <div class="bg-white shadow-md rounded-2xl overflow-hidden p-4 flex flex-col justify-between">
-        <img src="https://via.placeholder.com/300x200" alt="Sản phẩm 3" class="rounded-lg mb-4">
-        <h4 class="text-lg font-semibold">Máy pha cà phê mini</h4>
-        <p class="text-sm text-gray-600 mb-4">Thiết kế nhỏ gọn, dễ sử dụng, phù hợp cho gia đình hoặc văn phòng.</p>
-        <a href="https://www.amazon.com/dp/B000002" target="_blank" class="mt-auto inline-block bg-blue-600 text-white px-4 py-2 rounded-lg text-sm font-medium hover:bg-blue-700">Mua ngay trên Amazon</a>
-      </div>
-    </div>
-  </section>
-
-  <!-- Footer -->
-  <footer class="mt-12 py-6 text-center text-sm text-gray-500">
-    © 2025 Góc Mua Sắm Thông Minh. Các liên kết có thể chứa link tiếp thị (affiliate).
-  </footer>
+<body style="font-family: sans-serif; text-align: center; padding: 100px;">
+  <h1>Welcome to Mimoza 🌸</h1>
+  <p>Your Amazon Affiliate site is live!</p>
 </body>
 </html>
